@@ -32,12 +32,6 @@ This work aims to support data-driven agricultural planning and sustainable farm
 - Crop planning and rotation strategies
 - Agricultural risk assessment under climate variability
 
-## Coming Soon
-
-- Code and model training scripts
-- Preprocessed datasets and instructions
-- Interactive visualization of model performance
-
 ---
 
 Feel free to contribute or raise an issue if you have suggestions or questions!
